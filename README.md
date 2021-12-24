@@ -1,1 +1,1 @@
-# export_firebase_to_snowflake
+# export firebase analytics data from bigquery to gcs bucket
